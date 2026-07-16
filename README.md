@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there, I'm Haroon A S
 
-<!--
-**Haroonas/Haroonas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a third year Computer Science and Engineering student at Rajiv Gandhi Institute of Technology (RIT), Kottayam. I am passionate about backend development, software architecture, and cybersecurity.
 
-Here are some ideas to get you started:
+#### Skills & Technologies
+*   **Languages:** Python, Java, C, SQL
+*   **Web Technologies:** HTML, CSS, JavaScript
+*   **Databases & Tools:** MySQL, Linux, Git
+*   **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming, Operating Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Current Focus
+*   Building efficient, database-driven applications and exploring game development.
+*   Practicing and competing in Capture the Flag (CTF) cybersecurity challenges.
+*   Collaborating in hackathons to solve complex programming problems.
