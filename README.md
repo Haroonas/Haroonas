@@ -11,7 +11,7 @@
 
 I am a third year Computer Science and Engineering student at Rajiv Gandhi Institute of Technology (RIT), Kottayam 🎓. I'm passionate about backend development, cybersecurity 🛡️, and building scalable software solutions.
 
-- 🔭 **Currently focusing on:** Building database-driven applications and competing in **Capture the Flag (CTF)** challenges 🚩.
+- ​🔭 **Currently focusing on:** Building full-stack web applications and tackling Capture the Flag (CTF) cybersecurity challenges 🚩.
 - 🌱 **Currently learning:** Advanced Cybersecurity concepts & Game Development 🎮.
 - 💬 **Ask me about:** Python 🐍, Java ☕, C, and Web Technologies 🌐.
 - 📫 **How to reach me:** Drop me an email at **haroonas406@gmail.com** 📬.
