@@ -2,11 +2,13 @@
 
 I am a third year Computer Science and Engineering student at Rajiv Gandhi Institute of Technology (RIT), Kottayam 🎓. I am passionate about backend development 💻, software architecture 🏗️, and cybersecurity 🛡️.
 
-#### 🛠️ Skills & Technologies
-*   **Languages:** Python 🐍, Java ☕, C, SQL 🗄️
-*   **Web Technologies:** HTML 🌐, CSS 🎨, JavaScript ⚡
-*   **Databases & Tools:** MySQL 🐬, Linux 🐧, Git 🐙
-*   **Core Concepts:** Data Structures & Algorithms 🧩, Object-Oriented Programming 📦, Operating Systems ⚙️
+#### Skills & Technologies
+
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,mysql,linux,git" />
+  </a>
+</div>
 
 #### 🚀 Current Focus
 *   Building efficient, database-driven applications and exploring game development 🎮.
